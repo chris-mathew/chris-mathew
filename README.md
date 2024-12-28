@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **chris-mathew/chris-mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🛠️ Skills:
+## 🛠️ Skills
+
+
+## 📫 Let's Connect!
+
+Personal Website: chris-mathew.com
+Linkedin: linkedin.com/in/chris-mathew3
