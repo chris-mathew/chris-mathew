@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 ## 📫 Let's Connect!
-Personal Website: chris-mathew.com \n
+Personal Website: chris-mathew.com
 Linkedin: linkedin.com/in/chris-mathew3
